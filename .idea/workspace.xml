@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="beb0e4b2-4d7f-4120-8d38-f3a6ea62a67a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XCKRLDzCI6TIXeBzunwmDLPewp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.graph_data">
+    <configuration name="dataUDP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dulieuNFS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataUDP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graph_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dulieuNFS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graph_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_all_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dulieuNFS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../RaspberryPi/examples" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../RaspberryPi/examples/read_all_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="save_database" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dulieuNFS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/save_database.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testsql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dulieuNFS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.graph_data" />
+        <item itemvalue="Python.dataUDP" />
+        <item itemvalue="Python.save_database" />
+        <item itemvalue="Python.testsql" />
+        <item itemvalue="Python.read_all_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beb0e4b2-4d7f-4120-8d38-f3a6ea62a67a" name="Default Changelist" comment="" />
+      <created>1580544626333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580544626333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581315326743">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="437" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580568277506" />
+    <state x="437" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1581315326743" />
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1580787096086">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1580787096086" />
+    <state width="1345" height="184" key="GridCell.Tab.0.bottom" timestamp="1581337597756">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1328" height="233" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580578849883" />
+    <state width="1345" height="184" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581337597756" />
+    <state width="1345" height="184" key="GridCell.Tab.0.center" timestamp="1581337597755">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1328" height="233" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580578849883" />
+    <state width="1345" height="184" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1581337597755" />
+    <state width="1345" height="184" key="GridCell.Tab.0.left" timestamp="1581337597755">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1328" height="233" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580578849883" />
+    <state width="1345" height="184" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1581337597755" />
+    <state width="1345" height="184" key="GridCell.Tab.0.right" timestamp="1581337597755">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1328" height="233" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580578849883" />
+    <state width="1345" height="184" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1581337597755" />
+    <state width="1312" height="162" key="GridCell.Tab.1.bottom" timestamp="1581307279094">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1312" height="162" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581307279094" />
+    <state width="1312" height="162" key="GridCell.Tab.1.center" timestamp="1581307279093">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1312" height="162" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1581307279093" />
+    <state width="1312" height="162" key="GridCell.Tab.1.left" timestamp="1581307279093">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1312" height="162" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1581307279093" />
+    <state width="1312" height="162" key="GridCell.Tab.1.right" timestamp="1581307279093">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1312" height="162" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1581307279093" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1581043568496">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580544802395" />
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1581043568496" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1581334241450">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1581334241450" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/graph_data.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
